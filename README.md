@@ -53,7 +53,7 @@ This app follows **Clean Architecture + MVVM** with modular separation:
 ### 1. Clone this repo
 
 git clone https://github.com/abdulrohman19/fleet-tracker
-cd mini-fleet-tracker
+cd fleet-tracker
 
 ### 2. Add Google Maps API Key
 
