@@ -48,10 +48,10 @@ This app follows **Clean Architecture + MVVM** with modular separation:
 ---
 
 ## 🚀 Getting Started
+```bash
 
 ### 1. Clone this repo
 
-```bash
 git clone https://github.com/abdulrohman19/fleet-tracker
 cd mini-fleet-tracker
 
