@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FleetTracker</string>
+    <string name="google_maps_key">AIzaSyC2erucmyNrtLBNOSpCfjWne8mcbGut8vA</string>
 </resources>
